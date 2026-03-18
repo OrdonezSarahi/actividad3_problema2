@@ -1,4 +1,1 @@
-package PACKAGE_NAME;
-
-public class Diagnostico {
-}
+//esta clase no ue ocupada
