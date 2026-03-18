@@ -1,4 +1,1 @@
-package PACKAGE_NAME;
-
-public class Receta {
-}
+//esta clase no fue ocupada
